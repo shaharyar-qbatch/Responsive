@@ -1,0 +1,332 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.overlay{
+    background-color: #090808;
+}
+.span{
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #F0D7D7;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color:#AF9F9F ;
+}
+.navbar .navbar-brand img{
+    margin-right: 8px;
+    width: 35px;
+}
+.navbar .navbar-brand{
+    color: #FFFFFF;
+    padding: 15px;
+    display: flex;
+    font-size: 16px;
+    font-weight: 600;
+}
+.navbar .navbar-brand:hover{
+    color: #F0D7D7;
+}
+.navbar-expand-lg{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;  
+    padding: 0.5rem 1rem 1rem 1rem;
+    
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 16px;
+    font-weight: 600; 
+    letter-spacing: 1px;
+    color: #FFFFFFBF;
+}
+.content{
+    margin: auto;
+    padding-top: 115px;
+    color: #FFFFFF;
+    max-width: 1000px;
+    padding-right: 0px;
+    padding-bottom: 25px;
+}
+.head3{
+    font-size: 1.5rem;
+}
+.contentpara{
+    margin-bottom: 1rem;
+    font-size: 14px;
+}
+.contentpara a{
+    text-decoration:underline;
+    color: #FFFFFF;
+}
+.contentpara a:hover{
+    text-decoration: none;
+}
+.sheri{
+    cursor: pointer;
+}
+
+.div1{
+    background-image: url('texture.png');
+    background-color:#292D2F ;
+    padding: 8px 0px 24px;
+    text-align: center;
+    
+}
+.pro{
+    color: #FFFFFF;
+    font-size: 36px;
+    margin: 8px 0px;
+}
+.pro1{
+    color: #FFFFFF;
+    font-size: 18.4px;
+    margin: 8px 0px;
+}
+.btn{
+    background-color: #3371E3 ;
+    color:#FFFFFF;
+    padding: 3px 20px;
+    font-size: 16px;
+}
+.btn:hover{
+color:darkblue;
+}
+.Qbatch{
+    padding: 60px 20px;  
+}
+.para{
+    font-size: 22.4px;
+   margin: 0px 0px 33.6px ;
+   text-align: left;
+}
+.gridp{
+    font-size: 14px;
+    margin: 0px 0px 16px;
+}
+.nodeimg {
+    max-width: 450px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.mycol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 280px;
+}
+.planet{
+    font-size: 21.6px;
+}
+.Content1{
+    font-size: 14px;
+}
+.scalediv{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.scale{
+    max-width: 160px;
+    height: 290px;
+}
+.out{
+    font-size: 21.6px;
+    text-align: left;
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+.never{
+    display: flex;
+    flex-direction: column;
+}
+.content2{
+    font-size: 14px;
+    margin: 0px 0px 16px;
+}
+.suit{
+    width: 100%;
+    text-align: left;
+    margin-top: 45px;
+}
+.suitcase{
+    width: 160px;
+}
+.Run{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.Run1{
+    font-size: 14px;
+}
+.container-fluid{
+    margin-top: 150px;
+    background-image: url("https://kubernetes.io/_common-resources/images/kub_video_banner_homepage.jpg");
+    margin-bottom: 30px;
+    height: 500px;
+    background-position: center;
+
+    width: 100%;
+    /* /* position: relative; */
+    /* background-position: 50%; */
+    background-size: cover; 
+}
+.saraa{
+    color: #FFFFFF;
+    font-size: 32px;
+    line-height: 44px;
+    margin-top: 18px;
+}
+.sara1{
+    font-size: 14px;
+    margin: 0px 0px 20px;  
+    padding: 20px;
+    color: #FFFFFF;
+}
+.btn2{
+    font-size: 18px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    box-sizing: border-box;
+    padding: 20px 10px;
+    background-color:#303030;
+    color: white;
+}
+.btn1{
+    width: 50%;
+    padding: 15px 30px 15px 80px;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: #6979EA ;
+    font-size: 24px;
+    margin-bottom:0px 0px 15px;
+    cursor: pointer;
+    
+}
+
+.first,.second{
+    font-size: 23px;
+    color: #436BDF ;
+}
+.second:hover{
+    color: darksalmon;
+    cursor: pointer;
+}
+.first:hover{
+    color: darksalmon;
+    cursor: pointer;
+}
+h5{
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 36px;
+    margin-top: 18px;
+}
+.img{
+    height:60px;
+    width: 60px;
+}
+.kube{
+    text-align: center;
+}
+
+#row1{
+text-align: center;
+font-weight: 450;
+font-size: 27px;
+margin-top: 30px;
+}
+.p1{
+    font-size: 25px;
+}
+.p2{
+    cursor: pointer;
+    color: blue;
+}
+#row2{
+    text-align: center;
+    color: blue;
+    font-weight: 450;
+    font-size: 27px;
+    margin-top: 20px;
+    
+}
+.p5{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+a:hover{
+    text-decoration: none;
+}
+.container1{
+    margin-top: 60px;
+}
+
+.p6{
+    margin-top: 60px;
+    text-align: center;
+    font-size: larger;
+}
+
+.p7{
+    text-align: center;
+    margin-top: 20px;
+}
+.p8{
+    box-sizing: border-box;
+    width: 350px;
+    height: 32px;
+    font-size: 15px;
+
+}
+.btn3{
+    background-color: gray;
+    border: 1px  solid black;
+    box-sizing: border-box;
+    margin-left: 20px;
+    font-size: large;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+.btn3:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.footer{
+    background-color: grey;
+    margin-top: 160px;
+    color: white;
+    padding-bottom: 60px;
+}
+.row6{
+    cursor: pointer;
+}
+.paragraph{
+font-size: 25px;
+padding-left: 40px;
+justify-content: space-between;
+cursor: pointer;
+padding-right: 37px
+}
+.paragraph li{
+    display:inline
+}
+.paragraph2{
+    font-size: 10px;
+}
+.paragraph3{
+    font-size: 25px;
+cursor: pointer;
+justify-content: space-between;
+padding-left: 90px;
+}
+.paragraph3 li{
+    display: inline;
+}
